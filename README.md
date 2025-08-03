@@ -19,7 +19,6 @@ Ce projet vise à identifier les emplacements stratégiques pour l'implantation 
 - **Osmnx**: pour la récupération des routes, des garres routières et des stations-service existantes.
 - **Nomitatim**: utilisé pour la reverse géocodification
 - **Folium**: pour la visualisation interactive.
-- Google Earth Engine
 ### Méthodologie
 1. **Téléchargement des données**
     - Extraction OSM du réseau routier, des garres routières et des stations existantes
