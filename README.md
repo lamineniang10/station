@@ -49,9 +49,10 @@ Ce projet vise à identifier les emplacements stratégiques pour l'implantation 
    - Les pixels sont convertis en coordonnées géographiques.
    - Ces coordonnées sont ensuite utlisées pour récupérer les adresses pyhysique correspondantes(via géocodage inversé).
 6. **Résultats attendus**
-   - Un fihier excel contenant coordonnées, classements et adresses de n meilleurs sites.
-   - Une carte interactive localisant les meilleurs sites pour de nouvelles stations-service, en tenant compte de la densité de la population, de la proximité routière, de l'évitement des zones déjà couvertes et de la constructibilité du sol.
+   - Un fihier excel contenant coordonnées, classements et adresses de 50 meilleurs sites.
+   - Une carte interactive localisant les 50 meilleurs sites pour de nouvelles stations-service, en tenant compte de la densité de la population, de la proximité routière, de l'évitement des zones déjà couvertes et de la constructibilité du sol.
    - Un outil d'aide à la décision pour les planificateurs urbains et investisseurs.
+   - 
 ➡ Tous les détails sont disponibles dans le notebook `.ipynb` et les images et carte dans le dossier `docs`
 ### Contributions
 Toutes les suggestions, retours, ou contributions sont les bienvenus afin d'améliorer et enrichir ce projet.
