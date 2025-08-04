@@ -12,6 +12,10 @@ Ce projet vise à identifier les emplacements stratégiques pour l'implantation 
 - **Occupation des sols**: obtenu via **GEE** à partir de l'ensemble de données ESA Worldcover
 - Une densité homogène est calculée **par commune**, puis héritée à chaque pixel du raster pour créer une carte de rasterisée de la densitée de la population ajustée.
 - **Limites administratives**: polygone des communes pour aggrégation et des traitement des données de la population.
+  #### Mentions légales ####
+  Les données gégraphiques, issues d'**OpenStreeepMap**, utilisées dans ce projet sont accessibles sous la licence `Licencee Open databse Licence(ODbL)`.
+  
+  Attribution obligatoire: les contributeurs d'**OpenStreetMap - https://www.openstreetmap.org/copyright**
 ### Plateformes et Bibliothèques
 - **Python**: utilisé pour l'automatisation des chaines de traitement géospatial(lecture, reprojection, filtrage spatial, ...)
 - **Gdal**: pour les opérations de géotraitements.
